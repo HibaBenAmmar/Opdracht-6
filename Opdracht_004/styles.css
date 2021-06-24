@@ -1,0 +1,25 @@
+body {color: midnightblue;
+font-size:large;
+font-style: normal;
+font-weight: normal;
+font-family: fantasy;
+}
+
+footer  {color: darkolivegreen;
+    font-size: small;
+}
+
+.black-boarder{
+    border:5px solid rgb(0, 0, 0);
+}
+
+#pink-background {background-color: rgb(247, 99, 185);
+}
+
+p {font-size: larger;
+font-weight: 500;}
+
+h1,h2 {color: orchid;}
+
+h1 {border: 5px solid black;}
+
